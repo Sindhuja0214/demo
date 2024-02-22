@@ -1,0 +1,2 @@
+const arr=["sindhu,tami"]
+console.log(arr)
